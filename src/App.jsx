@@ -21,7 +21,7 @@ import LearningResources from './pages/LearningResources';
 import Mentors from './pages/Mentors';
 import Dashboard from './pages/Dashboard';
 import Profile from './pages/Profile';
-import InfoPage from './pages/Infopage';
+import InfoPage from './pages/InfoPage';
 
 const App = () => {
   return (
